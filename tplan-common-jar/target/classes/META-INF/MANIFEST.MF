@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tplan-common-jar
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.tplan
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tplan-common-jar
+Created-By: Maven Integration for Eclipse
+
